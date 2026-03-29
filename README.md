@@ -47,8 +47,7 @@ These platforms help in building a professional digital presence.
 - Created a Google Form quiz with 5 questions  
 - Linked responses to Google Sheets  
 
- Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScp5ZB7Qq5fWx9Lru2ckqRQ_Cj_qCIC_EHGe-ux6cLf9aIf3g/viewform?usp=header
-
+ Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScp5ZB7Qq5fWx9Lru2ckqRQ_Cj_qCIC_EHGe-ux6cLf9aIf3g/viewform?usp=publish-editor
 
 ### Task 4: Email Etiquette
 Created examples of:
